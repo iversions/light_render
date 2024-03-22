@@ -1,6 +1,5 @@
 import pdfplumber
 from datetime import datetime
-from dateutil import relativedelta
 from Database_OperationsV1_NXTRA import insert_into_main_table
 def date_Format(date_str1):
     try:
