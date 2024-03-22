@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r /code/requirements.txt
 
 COPY ./ /code
 
-CMD python /code/main_NXTRA.py
+CMD python /code/Main_NXTRA.py
