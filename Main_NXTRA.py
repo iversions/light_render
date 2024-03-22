@@ -10,7 +10,6 @@ from office365.runtime.client_request_exception import ClientRequestException
 from ast import literal_eval
 from string import ascii_lowercase
 from itertools import groupby
-import pandas as pd
 import pdfplumber
 import Database_OperationsV1_NXTRA
 import pdfplumber
