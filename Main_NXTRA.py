@@ -26,7 +26,7 @@ from Database_OperationsV1_NXTRA import duplicate_bill_check
 
 
 config_obj = configparser.ConfigParser()
-config_obj.read(r'D:\NXTRA\config.ini')
+config_obj.read('/code/config.ini')
 
 sppaths = config_obj['spdl_path']
 spparam = config_obj['spdoclib']
