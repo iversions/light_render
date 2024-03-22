@@ -1,5 +1,4 @@
 import pdfplumber
-import pandas as pd
 from datetime import datetime
 from dateutil import relativedelta
 from Database_OperationsV1_NXTRA import insert_into_main_table
