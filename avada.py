@@ -1,5 +1,4 @@
 import pdfplumber
-from dateutil import relativedelta
 from datetime import datetime
 from Database_OperationsV1_NXTRA import insert_into_main_table
 
