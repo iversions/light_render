@@ -1,5 +1,5 @@
 import pdfplumber
-import pandas as pd
+
 from Database_OperationsV1_NXTRA import insert_into_main_table
 
 def amp_main(path,status):
